@@ -6,11 +6,11 @@
 ## Experiência Acadêmica
 
 - **UNIARA** - Estudante de Sistema da Informação
-  - Participação em projetos de desenvolvimento de software
-  - Pesquisas em inteligência artificial e machine learning
+  - Estudando Sistema de informação
+  - Contribuição para projetos de código aberto
 
 
- ##
+ ## Status
 <div>
   <a href='https://github.com/ptiosavitar'>
     
@@ -32,9 +32,9 @@
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação**: Python
+- **Linguagem Principal**: Python
 - **Ferramentas**: Git, Visual code, pycharm
-- **Tecnologias**: Ainda não utilizo
+- **Tecnologias**: GitHub, JavaScript,
 
 ## Linguagem Aprendidas
 
