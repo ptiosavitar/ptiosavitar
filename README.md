@@ -1,6 +1,13 @@
-### 💻|Oi tudo bom? Sou o Pedro |💻
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=PHTSILVA+💻;+Pode+me+Chamar+De+Pedro!;"  />
+</h1>
 
-- 🚀| UNIARA ESTUDANTE 1/4 |🚀
+
+## Experiência Acadêmica
+
+- **UNIARA** - Estudante de Sistema da Informação
+  - Participação em projetos de desenvolvimento de software
+  - Pesquisas em inteligência artificial e machine learning
 
 
  ##
@@ -14,6 +21,7 @@
 </div>
 
 ![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
@@ -35,3 +43,8 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-thomazelli-da-silva-09925028b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
+</h1>
