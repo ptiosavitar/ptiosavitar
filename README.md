@@ -13,7 +13,7 @@
 
 </div>
 
-![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake_1.gif)
 
 <div>
   <img align="center" alt="PH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
