@@ -15,7 +15,8 @@
   <a href='https://github.com/ptiosavitar'>
     
   ![Status](https://github-readme-stats.vercel.app/api?username=ptiosavitar&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptiosavitar&layout=compact&theme=dark)](https://github.com/ptiosavitar/github-readme-stats&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptiosavitar&layout=compact&theme=dark)](https://github.com/ptiosavitar/github-readme-stats)
+
 
 
 </div>
