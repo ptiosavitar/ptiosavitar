@@ -24,7 +24,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
 ##
 <div> 
   <a href="https://www.instagram.com/pedrohtdss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
