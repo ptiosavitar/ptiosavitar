@@ -5,9 +5,8 @@
 
 ## Experiência Acadêmica
 
-- **UNIARA** - Estudante de Sistema da Informação
-  - Estudando Sistema de informação
-  - Contribuição para projetos de código aberto
+- **UNIARA** - Ex-Estudante de Sistema da Informação
+  Fechamento da matricula com 6 Meses de Faculdade para Presta Fatec
 
 
  ## Status
