@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-![Gambit GIF](https://github.com/ptiosavitar/meu-repositorio/blob/main/gifgambit.gif)
+![Gambit GIF](https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif)
 
 ###
 
