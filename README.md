@@ -5,8 +5,7 @@
 ## Experiência Acadêmica
 
 - **UNIARA** - Ex-Estudante de Sistema da Informação  
-  Fechamento da matrícula com 6 meses de faculdade para prestar Fatec
-
+  Fechamento da matrícula com 6 meses 
 <h2 align="left"></h2>
 
 ###
