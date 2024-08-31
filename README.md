@@ -20,10 +20,9 @@
 ###
 
 <br clear="both">
-
-![Gambit GIF](https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif)
-
-###
+<div align="center">
+  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="300" />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
