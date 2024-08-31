@@ -34,12 +34,11 @@
   ## Languages Learned
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-</div><h2 align="left"></h2>
+</div>
 
-###
+<h2 align="center"></h2>
 
 
-###
 
 <br clear="both">
 
@@ -56,10 +55,9 @@
 
 
 
-
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gambitedit.gif" alt="Gambit GIF" width="500" />
+  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gambitedit.gif" alt="Gambit GIF" width="750" height="450"/>
 </div>
 
 
