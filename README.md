@@ -18,17 +18,40 @@
 </div>
 
 ###
+<h2 align="center"></h2>
 
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="300" />
+  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="500" />
 </div>
 
+
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  
+  ## LINGUAGEM APRENDIDAS
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+</div><h2 align="left"></h2>
+
+###
+
+
+###
+
+<br clear="both">
+
+![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/tiosavitar-mx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=5" alt="Spotify recently played" />
+  </a>
 </div>
 
 ###
+<h2 align="left"></h2>
+
 
 <div align="center">
   <a href="https://www.youtube.com/@fejaocomfarofa" target="_blank">
@@ -44,20 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <a href="https://open.spotify.com/user/tiosavitar-mx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=5" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
