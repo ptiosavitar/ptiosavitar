@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://open.spotify.com/user/tiosavitar-mx">
