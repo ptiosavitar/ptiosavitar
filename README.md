@@ -26,20 +26,11 @@
 ###
 <h2 align="center"></h2>
 
-
-
-
-
 <div align="center">
-  
-  ## Languages Learned
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
 </div>
 
 <h2 align="center"></h2>
-
-
 
 <br clear="both">
 
