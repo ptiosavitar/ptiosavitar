@@ -20,7 +20,8 @@
 
 </div>
 
-![snake gif](https://github.com/ptiosavitar/ptiosavitar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/snake.svg" alt="Snake animation" />
+
 
 
 <picture>
