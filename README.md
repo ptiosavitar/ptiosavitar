@@ -49,9 +49,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/ptiosavitar/ptiosavitar/blob/output/snake.gif" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://open.spotify.com/user/tiosavitar-mx">
