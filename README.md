@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  ## LINGUAGEM APRENDIDAS
+  ## Languages Learned
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
 </div><h2 align="left"></h2>
@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/tiosavitar-mx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=1" alt="Spotify recently played" />
   </a>
 </div>
 
