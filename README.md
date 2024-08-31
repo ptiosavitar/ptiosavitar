@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=PHTSILVA+💻;+Pode+me+Chamar+De+Pedro!;" />
 </h1>
 
+
+<br clear="both">
+<div align="center">
+  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="500" />
+</div>
+
 ## Experiência Acadêmica
 
 - **UNIARA** - Ex-Estudante de Sistema da Informação  
@@ -19,10 +25,7 @@
 ###
 <h2 align="center"></h2>
 
-<br clear="both">
-<div align="center">
-  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="500" />
-</div>
+
 
 
 
