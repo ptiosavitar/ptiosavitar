@@ -23,9 +23,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://i.redd.it/ynmq50npy8qc1.gif"  />
-</div>
+![Gambit GIF](https://github.com/PedroHTSilva/meu-repositorio/blob/main/gifgambit.gif)
 
 ###
 
