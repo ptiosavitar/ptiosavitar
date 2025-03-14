@@ -12,7 +12,9 @@
 ## Experiência Acadêmica
 
 - **UNIARA** - Ex-Estudante de Sistema da Informação  
-  Fechamento da matrícula com 6 meses 
+  Fechamento da matrícula com 6 meses
+- **Anhanguera** - Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 2025-2027
+
 <h2 align="left"></h2>
 
 ###
