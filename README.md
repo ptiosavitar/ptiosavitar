@@ -1,82 +1,98 @@
+<h2 align="left">💻 Opa, prazer! Sou o Pedro.</h2>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=PHTSILVA+💻;+Pode+me+Chamar+De+Pedro!;" />
-</h1>
+###
 
+<p align="left">✨ Iniciante em desenvolvimento web, comprometido com aprendizado contínuo e evolução na área de tecnologia<br>📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Anhanguera e estudando HTML e CSS, com foco em avançar para React.js e Tailwind em breve<br>🎯 Objetivos: Me tornar um desenvolvedor full-stack, criar interfaces modernas e responsivas, e construir um portfólio sólido e funcional<br>☕ Curiosidade: Movido a café — porque grandes ideias e linhas de código precisam de combustível</p>
 
-<br clear="both">
-<div align="center">
-  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gifgambit.gif" alt="Gambit GIF" width="500" />
+###
+
+<h2 align="left">💻Linguagens💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-## Experiência Acadêmica
+###
 
-- **UNIARA** - Ex-Estudante de Sistema da Informação  
-  Fechamento da matrícula com 6 meses
-- **Anhanguera** - Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 2025-2027
+<h2 align="left">🛠️Ferramentas de Trabalho🛠️</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">📱Redes Sociais📱</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-henrique-thomazelli-da-silva-09925028b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ToKatakuri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/pedrohtdss/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@fejaocomfarofa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 
 <h2 align="left"></h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ptiosavitar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptiosavitar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ptiosavitar&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-<h2 align="center"></h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-</div>
+<h2 align="left"></h2>
 
-<h2 align="center"></h2>
-
-<br clear="both">
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ptiosavitar/ptiosavitar/output/github-contribution-grid-snake.svg">
-</picture>
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/tiosavitar-mx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=1" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tiosavitar-mx&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-<h2 align="left"></h2>
 
+<h2 align="left">GitHub Stats🔥</h2>
 
-
-<br clear="both">
-<div align="center">
-  <img src="https://github.com/ptiosavitar/ptiosavitar/blob/main/gambitedit.gif" alt="Gambit GIF" width="750" height="450"/>
-</div>
-
+###
 
 <div align="center">
-  <a href="https://www.youtube.com/@fejaocomfarofa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/pedrohtdss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:pedro.henrique02122005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-thomazelli-da-silva-09925028b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-    <a href="https://discord.gg/ZkysTJCxY8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ptiosavitar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptiosavitar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
-</h1>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ptiosavitar.ptiosavitar&"  />
+</div>
+
+###
